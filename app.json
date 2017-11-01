@@ -1,0 +1,7 @@
+{
+  "name": "training-agent-webhook",
+  "description": "training-agent-webhook",
+  "repository": "https://github.com/MuneeswaranA/training-agent-webhook",
+  "logo": "https://training-agent-webhook.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
